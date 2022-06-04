@@ -1,0 +1,6 @@
+1.	 Program needs "Python3" interpreter and install additional modules using "requirements.bat"
+2.	 Program requires python "tkinter" graphics module
+3.    Turn on less secure app (That means Allowing third party software access) setting for your Email
+4.    Users input file must be a .Xlsx file
+5.    Xlsx file must contain Name, Email, Candidate ID, Phone number headings
+6.    Above header order is very importent, don't change the order
